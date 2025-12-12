@@ -1,0 +1,5 @@
+git checkout -b feat/milstone2-feature
+#work...
+git add
+git commit -m "fear: implement X; add unit tests for V&V #<jira-id>"
+git push origin feat/milestone2 feature
